@@ -1,0 +1,25 @@
+# Maven
+target/
+.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ IDEA
+.idea/
+
+# Spring Tool Suite
+.classpath
+.project
+.settings/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Logs
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db
